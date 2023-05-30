@@ -1,5 +1,2 @@
----
-title: Website
----
 
 - [Toys](toys)

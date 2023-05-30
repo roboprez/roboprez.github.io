@@ -1,6 +1,4 @@
----
-title: Toys
----
+## Toys
 
 - [Thread](thread)
 - [Field](field)
