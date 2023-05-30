@@ -1,3 +1,5 @@
-# Initial Commit
+---
+title: Website
+---
 
 - [Toys](toys)
